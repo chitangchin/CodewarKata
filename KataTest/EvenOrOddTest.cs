@@ -1,6 +1,4 @@
-﻿using System;
-using Kata.EvenOrOdd;
-using NUnit.Framework;
+﻿using Kata.EvenOrOdd;
 
 namespace Solution
 {
