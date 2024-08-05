@@ -1,6 +1,6 @@
 ﻿using Kata.SumOfPositive;
 
-namespace Solution
+namespace Solution8Kyu
 {
     using NUnit.Framework;
 

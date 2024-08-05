@@ -1,5 +1,5 @@
 ﻿
-namespace Solution
+namespace Solution8Kyu
 {
     using Kata.RemoveChar;
     using NUnit.Framework;

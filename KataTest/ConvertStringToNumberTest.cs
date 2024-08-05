@@ -1,4 +1,4 @@
-﻿namespace Solution
+﻿namespace Solution8Kyu
 {
     using NUnit.Framework;
     using Kata.ConvertStringToNumber;

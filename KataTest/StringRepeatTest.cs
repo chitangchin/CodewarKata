@@ -1,4 +1,4 @@
-﻿namespace Solution
+﻿namespace Solution8Kyu
 {
     using Kata.StringRepeat;
     using NUnit.Framework;

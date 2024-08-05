@@ -1,4 +1,4 @@
-﻿namespace Solution
+﻿namespace Solution8Kyu
 {
     using Kata.BoolToWord;
     using NUnit.Framework;

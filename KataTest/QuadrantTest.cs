@@ -1,4 +1,4 @@
-﻿namespace Solution
+﻿namespace Solution8Kyu
 {
     using Kata.Quadrant;
     using NUnit.Framework;

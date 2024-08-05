@@ -1,6 +1,6 @@
 ﻿using Kata.Opposite;
 
-namespace Solution
+namespace Solution8Kyu
 {
     using NUnit.Framework;
 
