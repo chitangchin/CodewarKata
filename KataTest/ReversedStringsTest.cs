@@ -1,7 +1,7 @@
 ﻿namespace Solution
 {
-    using NUnit.Framework;
     using Kata.ReversedString;
+    using NUnit.Framework;
 
     [TestFixture]
     public class ReversedStringsTests

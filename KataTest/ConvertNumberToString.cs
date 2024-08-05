@@ -1,9 +1,8 @@
 ﻿namespace Solution
 {
-    using NUnit.Framework;
-    using System;
-    using System.Collections.Generic;
     using Kata.ConvertNumberToString;
+    using NUnit.Framework;
+    using System.Collections.Generic;
 
     [TestFixture]
     public class ConvertNumberToStringTests

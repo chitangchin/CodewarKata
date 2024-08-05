@@ -1,8 +1,7 @@
 ﻿namespace Solution
 {
-    using NUnit.Framework;
-    using System;
     using Kata.Quadrant;
+    using NUnit.Framework;
 
     [TestFixture]
     public class QuadrantTests
