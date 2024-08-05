@@ -5,7 +5,7 @@ namespace Solution
     using NUnit.Framework;
 
     [TestFixture]
-    public class Tests
+    public class SumOfPositiveTests
     {
         [Test]
         [TestCase(new int[] { 1, 2, 3, 4, 5 }, ExpectedResult = 15)]
