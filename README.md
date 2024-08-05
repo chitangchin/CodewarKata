@@ -6,6 +6,7 @@
 
 <details>
     <summary> Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
+    Solutions: https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu8
 </details>
 
 <details>
