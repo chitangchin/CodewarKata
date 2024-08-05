@@ -1,6 +1,6 @@
 ﻿using Kata.EvenOrOdd;
 
-namespace Solution8Kyu
+namespace KataTests.Kyu8
 {
     [TestFixture]
     public class EvenOrOddTests

@@ -1,8 +1,7 @@
-﻿namespace Solution8Kyu
+﻿namespace KataTests.Kyu8
 {
     using Kata.BoolToWord;
     using NUnit.Framework;
-    using System;
 
     [TestFixture]
     public class BoolToWordTests

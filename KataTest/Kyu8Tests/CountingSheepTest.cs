@@ -1,7 +1,7 @@
-﻿namespace Solution8Kyu
+﻿namespace KataTests.Kyu8
 {
-    using NUnit.Framework;
     using Kata.CountingSheep;
+    using NUnit.Framework;
 
     [TestFixture]
     public class CountSheepsTests

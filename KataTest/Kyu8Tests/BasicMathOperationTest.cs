@@ -1,4 +1,4 @@
-﻿namespace Solution8Kyu
+﻿namespace KataTests.Kyu8
 {
     using Kata.BasicMathOperation;
     using NUnit.Framework;

@@ -1,6 +1,6 @@
 ﻿using Kata.ReturnNegative;
 
-namespace Solution8Kyu
+namespace KataTests.Kyu8
 {
 
     [TestFixture]

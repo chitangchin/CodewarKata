@@ -1,8 +1,8 @@
-﻿namespace Solution8Kyu
+﻿namespace KataTests.Kyu8
 {
+    using Kata.SquareSum;
     using NUnit.Framework;
     using System.Collections.Generic;
-    using Kata.SquareSum;
 
     [TestFixture]
     public class SquareSumTests

@@ -1,5 +1,5 @@
 ﻿using Kata.Multiply;
-namespace Solution8Kyu
+namespace KataTests.Kyu8
 {
     [TestFixture]
     public class CustomMathTests

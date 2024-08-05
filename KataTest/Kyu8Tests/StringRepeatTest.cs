@@ -1,8 +1,7 @@
-﻿namespace Solution8Kyu
+﻿namespace KataTests.Kyu8
 {
     using Kata.StringRepeat;
     using NUnit.Framework;
-    using Microsoft.VisualStudio.TestPlatform.TestHost;
 
     [TestFixture]
     public class StringRepeatTests

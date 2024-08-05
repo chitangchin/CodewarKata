@@ -5,7 +5,7 @@
         public static double basicOp(char operation, double value1, double value2)
         {
             //if operation = + add
-            if (operation ==  '+')
+            if (operation == '+')
             {
                 return value1 + value2;
             }
