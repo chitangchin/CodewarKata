@@ -9,34 +9,34 @@ namespace Solution
         [TestCase(7)]
         public void PositiveOddTest(int num)
         {
-            Assert.AreEqual("Odd", SolutionClass.EvenOrOdd(num));
+            Assert.That(SolutionClass.EvenOrOdd(num), Is.EqualTo("Odd"));
         }
 
         [TestCase(2)]
         [TestCase(42)]
         public void PositiveEvenTest(int num)
         {
-            Assert.AreEqual("Even", SolutionClass.EvenOrOdd(num));
+            Assert.That(SolutionClass.EvenOrOdd(num), Is.EqualTo("Even"));
         }
 
         [TestCase(-1)]
         [TestCase(-7)]
         public void NegativeOddTest(int num)
         {
-            Assert.AreEqual("Odd", SolutionClass.EvenOrOdd(num));
+            Assert.That(SolutionClass.EvenOrOdd(num), Is.EqualTo("Odd"));
         }
 
         [TestCase(-2)]
         [TestCase(-42)]
         public void NegativeEvenTest(int num)
         {
-            Assert.AreEqual("Even", SolutionClass.EvenOrOdd(num));
+            Assert.That(SolutionClass.EvenOrOdd(num), Is.EqualTo("Even"));
         }
 
         [Test]
         public void ZeroIsEvenTest()
         {
-            Assert.AreEqual("Even", SolutionClass.EvenOrOdd(0));
+            Assert.That(SolutionClass.EvenOrOdd(0), Is.EqualTo("Even"));
         }
     }
 }

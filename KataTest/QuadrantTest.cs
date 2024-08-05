@@ -7,7 +7,7 @@
     [TestFixture]
     public class QuadrantTests
     {
-        static void Act(int x, int y, int expected) => Assert.AreEqual(expected, SolutionClass.Quadrant(x, y), $"Quadrant( x = {x}, y = {y} )");
+        static void Act(int x, int y, int expected) => Assert.That(SolutionClass.Quadrant(x, y), Is.EqualTo(expected), $"Quadrant( x = {x}, y = {y} )");
 
         [TestCase(1, 2, 1)]
         [TestCase(3, 5, 1)]

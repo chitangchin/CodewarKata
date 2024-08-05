@@ -9,8 +9,8 @@ public class CustomMathTests
     [Test]
     public void ShouldMultiple()
     {
-        Assert.AreEqual(2, CustomMath.multiply(2, 1));
-        Assert.AreEqual(8, CustomMath.multiply(2, 4));
+            Assert.That(CustomMath.multiply(2, 1), Is.EqualTo(2));
+            Assert.That(CustomMath.multiply(2, 4), Is.EqualTo(8));
     }
 }
 

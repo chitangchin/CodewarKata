@@ -9,7 +9,7 @@
         [Test]
         public void World()
         {
-            Assert.AreEqual("dlrow", SolutionClass.Solution("world"));
+            Assert.That(SolutionClass.Solution("world"), Is.EqualTo("dlrow"));
         }
     }
 }

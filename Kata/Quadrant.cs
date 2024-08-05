@@ -41,6 +41,7 @@ public class SolutionClass
             {
                 quadrantNumber = 4;
             }
+            return quadrantNumber;
         }
     }
 }
