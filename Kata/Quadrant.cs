@@ -1,6 +1,12 @@
-﻿namespace Kata.Quadrant
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Kata.Quadrant
 {
-    public class SolutionClass
+public class SolutionClass
     {
         public static int Quadrant(int x, int y)
         {
@@ -35,7 +41,6 @@
             {
                 quadrantNumber = 4;
             }
-            return quadrantNumber;
         }
     }
 }
