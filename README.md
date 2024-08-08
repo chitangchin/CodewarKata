@@ -1,8 +1,19 @@
-# C# Coding Interview Prep - CodeWar
+# C# - CodeWar
 
 Curated Preparation List for Coding Interview
 
+## Preparation Structure
+
+Rinse and Repeat the Structure for each Kyu Set (***i.e. Kyu 8***)
+
+**Stage 1:** Complete a Kyu Set in Visual Studio
+
+**Stage 2:** Complete a Kyu Set in Codewars
+
+**Stage 3:** Revisit problems until Complete Kyu Set is Level 1
+
 ## How to Get Started
+
 
 ### Setting Up Environment
 
@@ -16,7 +27,7 @@ Track progression for each Kyu and individual question difficulty.
 
 [Google Sheet Template](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
 
-Here is a live view of my SpreadSheet:
+Live view of Personal Spreadsheet
 
 [My SpreadSheet](https://docs.google.com/spreadsheets/d/1xaghAp_BQm32j37mlGLbWXMnKBzPDoUCvxpdCPOjV7I/edit?usp=sharing)
 
