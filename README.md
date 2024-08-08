@@ -1,6 +1,6 @@
 # C# - CodeWar
 
-Curated Preparation List for Coding Interview
+Curated Preparation List for CodingWar Kata Problems
 
 ## Preparation Structure
 
