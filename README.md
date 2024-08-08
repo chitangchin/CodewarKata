@@ -36,9 +36,9 @@ Track progression for each Kyu and individual question difficulty.
 </details>
 
 <details>
-    <summary> Kyu 2 - 20  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
+    <summary> Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
 </details>
 
 <details>
-    <summary> Kyu 1 - 10 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
+    <summary> Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
 </details>
