@@ -1,12 +1,26 @@
-# Codewar Kata Prep
+# C# Coding Interview Prep - CodeWar
 
 Curated Preparation List for Coding Interview
 
-## Codewar Tracker Spreadsheet
+## How to Get Started
+
+### Setting Up Environment
+
+### Setting Up Repository
+
+### Building Test Cases
+
+### Cloning Codewar Tracker Spreadsheet
 
 Track progression for each Kyu and individual question difficulty.
 
 [Google Sheet Template](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
+
+To Clone your copy:
+
+Goto File and Clone Master Sheet
+
+Feel free to read the ReadMe In the SpreadSheet if you are curious about how I used this spreadsheet.
 
 ## Questions and Solutions
 
