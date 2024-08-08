@@ -16,13 +16,9 @@ Rinse and Repeat the Structure for each Kyu Set (***i.e. Kyu 8***)
 
 ### Track your progress for Codewar
 
-Track progression for each Kyu and individual question difficulty.
+[Track progression for each Kyu and individual question difficulty](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
 
-[Google Sheet Template](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
-
-Live view of Personal Spreadsheet
-
-[My SpreadSheet](https://docs.google.com/spreadsheets/d/1xaghAp_BQm32j37mlGLbWXMnKBzPDoUCvxpdCPOjV7I/edit?usp=sharing)
+[Live view of Personal Spreadsheet](https://docs.google.com/spreadsheets/d/1xaghAp_BQm32j37mlGLbWXMnKBzPDoUCvxpdCPOjV7I/edit?usp=sharing)
 
 ## Questions and Solutions
 
