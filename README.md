@@ -17,6 +17,7 @@ Track progression for each Kyu and individual question difficulty.
 [Google Sheet Template](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
 
 Here is a live view of my SpreadSheet:
+
 [My SpreadSheet](https://docs.google.com/spreadsheets/d/1xaghAp_BQm32j37mlGLbWXMnKBzPDoUCvxpdCPOjV7I/edit?usp=sharing)
 
 ## Questions and Solutions
