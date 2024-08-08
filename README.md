@@ -1,5 +1,7 @@
 # Codewar Kata Prep
 
+Curated Preparation List for Coding Interview
+
 ## Codewar Tracker Spreadsheet
 
 Track progression for each Kyu and individual question difficulty.
