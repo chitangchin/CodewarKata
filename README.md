@@ -14,7 +14,7 @@ Rinse and Repeat the Structure for each Kyu Set (***i.e. Kyu 8***)
 
 ## How to Get Started
 
-### Tracking your progress for Codewar
+### Track your progress for Codewar
 
 Track progression for each Kyu and individual question difficulty.
 
