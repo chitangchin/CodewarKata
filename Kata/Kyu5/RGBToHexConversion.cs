@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kata.Kyu5
+namespace Kata.RGBToHexConversion
 {
     public class SolutionClass
     {

@@ -2,7 +2,7 @@
 namespace KataTests.Kyu5
 {
     using NUnit.Framework;
-    using Kata.Kyu5;
+    using Kata.RGBToHexConversion;
     [TestFixture]
     public class RGBToHexConverstionTests
     {
