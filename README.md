@@ -26,19 +26,22 @@ Rinse and Repeat the Structure for each Kyu Set (*i.e. Kyu 8*)
 
 <details>
     <summary> Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
-    Solutions: https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu8
+    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu7">Solution Link</a>
 </details>
 
 <details>
     <summary> Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
+    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu7">Solution Link</a>
 </details>
 
 <details>
     <summary> Kyu 6 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
+    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu6">Solution Link</a>
 </details>
 
 <details>
     <summary> Kyu 5 - 50 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
+    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu5">Solution Link</a>
 </details>
 
 <details>
