@@ -18,8 +18,6 @@ Rinse and Repeat the Structure for each Kyu Set (*i.e. Kyu 8*)
 
 [Master Sheet](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
 
-[My Personal Spreadsheet](https://docs.google.com/spreadsheets/d/1xaghAp_BQm32j37mlGLbWXMnKBzPDoUCvxpdCPOjV7I/edit?usp=sharing)
-
 ## Questions and Solutions
 
 ### (Level - Total No. of Questions - Link to Collection)
