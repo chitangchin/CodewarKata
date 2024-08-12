@@ -4,7 +4,7 @@ Curated Preparation List for CodingWar Kata Problems
 
 ## Preparation Structure
 
-Rinse and Repeat the Structure for each Kyu Set (***i.e. Kyu 8***)
+Rinse and Repeat the Structure for each Kyu Set (*i.e. Kyu 8*)
 
 **Stage 1:** Complete a Kyu Set in Visual Studio
 
