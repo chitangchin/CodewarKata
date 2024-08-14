@@ -1,4 +1,4 @@
-﻿namespace Solution 
+﻿namespace KataTest.Kyu6Tests
 {
     using Kata.AbbrevName;
     using NUnit.Framework;
