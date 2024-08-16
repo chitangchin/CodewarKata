@@ -18,42 +18,24 @@ Rinse and Repeat the Structure for each Kyu Set (*i.e. Kyu 8*)
 
 [Master Sheet](https://docs.google.com/spreadsheets/d/1rw-iogINUmm6GYT8QTaqr8KPMwDUzCrSqaMbjKwPzAI/edit?usp=sharing)
 
-## Questions and Solutions
+## List of my Codewar Collection
 
-### (Level - Total No. of Questions - Link to Collection)
+<details><summary>Dropdown</summary>
 
-<details>
-    <summary> Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
-    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu7">Solution Link</a>
-</details>
+- [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
-<details>
-    <summary> Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
-    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu7">Solution Link</a>
-</details>
+- [Kyu 7 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-7)
 
-<details>
-    <summary> Kyu 6 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
-    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu6">Solution Link</a>
-</details>
+- [Kyu 6 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-6)
 
-<details>
-    <summary> Kyu 5 - 50 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
-    <a href="https://github.com/chitangchin/CodewarKata/tree/master/Kata/Kyu5">Solution Link</a>
-</details>
+- [Kyu 5 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-5)
 
-<details>
-    <summary> Kyu 4 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-4 </summary>
-</details>
+- [Kyu 4 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-4)
 
-<details>
-    <summary> Kyu 3 - 26 - https://www.codewars.com/collections/c-number-preparation-kyu-3 </summary>
-</details>
+- [Kyu 3 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-3)
 
-<details>
-    <summary> Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
-</details>
+- [Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
 
-<details>
-    <summary> Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
+- [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
+
 </details>
