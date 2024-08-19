@@ -1,12 +1,10 @@
 ﻿namespace KataTest.Kyu6Tests
 {
-    using Kata.AbbrevName;
     using NUnit.Framework;
-    using Kata.Kyu6;
     using System.Collections.Generic;
 
   [TestFixture]
-  public class Sample_Tests
+  public class NotVerySecure
   {
     private static IEnumerable<TestCaseData> testCases
     {
@@ -19,7 +17,6 @@
       }
     }
 
-        [Test, TestCaseSource("testCases")]
     public bool Test(string str) => Kata.Kyu6.SolutionClass.Alphanumeric(str);
   }
 }
