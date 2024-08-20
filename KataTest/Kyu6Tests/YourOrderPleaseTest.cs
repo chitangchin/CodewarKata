@@ -1,6 +1,6 @@
 ﻿using Kata.Kyu6.YourOrderPlease;
 
-namespace KataTest.Kyu6Tests
+namespace KataTest.Kyu6
 {
     public class YourOrderPleaseTest
     {

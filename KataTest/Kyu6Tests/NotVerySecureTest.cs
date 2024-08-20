@@ -1,4 +1,4 @@
-﻿namespace KataTest.Kyu6Tests
+﻿namespace KataTest.Kyu6
 {
     using NUnit.Framework;
     using System.Collections.Generic;

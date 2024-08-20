@@ -1,4 +1,4 @@
-﻿namespace KataTest.Kyu7Tests
+﻿namespace KataTest.Kyu7
 {
     using NUnit.Framework;
     using Kata.ReverseWords;
