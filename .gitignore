@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Kata/Kyu3
+/KataTest/Kyu3Tests
+/.gitignore
+/.gitignore

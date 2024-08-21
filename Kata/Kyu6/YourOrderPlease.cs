@@ -1,9 +1,14 @@
-﻿namespace Kata.Kyu6.YourOrderPlease
+﻿using System.Diagnostics.Metrics;
+
+namespace Kata.Kyu6.YourOrderPlease
 {
     public class SolutionClass
     {
         public static string Order(string words)
         {
+            //Edge Case
+            if (words.Length == 0) return "";
+
             //first split the string words
             string[] wordList = words.Split();
 
@@ -13,18 +18,14 @@
             //Iterate through wordList
             for (int i = 0; i < wordList.Length; i++)
             {
-                int index = -1;
                 //Iterate through letter.
-                while (index == -1)
+                int letter = 0;
+                while (!char.IsDigit(wordList[i][letter]))
                 {
-                    int letter = 0;
-                    if (char.IsDigit(wordList[i][letter]))
-                    {
-                        index = wordList[i][letter] - '0';
-                        break;
-                    }
+                    letter++;
                 }
-                resultArr[index] = wordList[i];
+                char index = wordList[i][letter];
+                resultArr[index - '1'] = wordList[i];
             }
 
             string result = "";
@@ -33,7 +34,6 @@
             {
                 result += resultArr[i] + " ";
             }
-
             return result.Trim();
         }
     }
