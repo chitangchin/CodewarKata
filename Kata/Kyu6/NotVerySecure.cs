@@ -17,14 +17,14 @@ namespace Kata.Kyu6
     public class SolutionClass
     {
         public static bool Alphanumeric(string str) => new Regex("^[a-zA-Z0-9]+$").Match(str).Success;
-    
-            /*
-             * Brute Force
-            if (str.Length == 0) return false;
-            string pattern = "[^0-9a-zA-Z]+";
-            string replacement = "";
-            string result = Regex.Replace(str, pattern, replacement);
-            return result == str;
-            */
+
+        /*
+         * Brute Force
+        if (str.Length == 0) return false;
+        string pattern = "[^0-9a-zA-Z]+";
+        string replacement = "";
+        string result = Regex.Replace(str, pattern, replacement);
+        return result == str;
+        */
     }
 }

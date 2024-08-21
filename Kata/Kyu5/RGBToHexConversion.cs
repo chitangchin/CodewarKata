@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Metrics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Kata.RGBToHexConversion
+﻿namespace Kata.RGBToHexConversion
 {
     public class SolutionClass
     {
@@ -36,7 +29,7 @@ namespace Kata.RGBToHexConversion
             if (g > 255) g = 255;
             if (b < 0) b = 0;
             if (b > 255) b = 255;
-            
+
             //Format the string in hexadecimal using X2 arg with ToString() method
             return r.ToString("X2") + g.ToString("X2") + b.ToString("X2");
         }

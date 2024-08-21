@@ -1,7 +1,7 @@
 ﻿namespace KataTests.Kyu7
 {
-    using NUnit.Framework;
     using Kata.Kyu7.FindTheMissingNumber;
+    using NUnit.Framework;
 
     [TestFixture]
     public class FindTheMissingNumberTest

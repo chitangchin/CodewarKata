@@ -15,7 +15,7 @@
             {
                 int index = -1;
                 //Iterate through letter.
-                while(index == -1)
+                while (index == -1)
                 {
                     int letter = 0;
                     if (char.IsDigit(wordList[i][letter]))

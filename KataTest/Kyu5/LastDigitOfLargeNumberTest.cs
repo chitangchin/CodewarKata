@@ -1,9 +1,9 @@
 ﻿namespace KataTests.Kyu5
 {
+    using Kata.LastDigitOfLargeNumber;
     using NUnit.Framework;
     using System.Linq;
     using System.Numerics;
-    using Kata.LastDigitOfLargeNumber;
 
     // TODO: Replace examples and use TDD development by writing your own tests
 
