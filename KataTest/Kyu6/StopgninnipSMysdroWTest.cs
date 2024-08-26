@@ -1,6 +1,6 @@
 ﻿using Kata.Kyu6.SpinWords;
 
-namespace KataTest.Kyu6Tests
+namespace KataTest.Kyu6
 {
     [TestFixture]
     public class SpinWords
