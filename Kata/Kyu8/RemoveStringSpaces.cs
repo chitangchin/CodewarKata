@@ -1,4 +1,4 @@
-﻿namespace Kata.RemoveStringSpace
+﻿namespace Kata.Kyu8.RemoveStringSpace
 {
     public class SolutionClass
     {

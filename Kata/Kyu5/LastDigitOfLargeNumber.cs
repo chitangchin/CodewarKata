@@ -1,4 +1,4 @@
-﻿namespace Kata.LastDigitOfLargeNumber
+﻿namespace Kata.Kyu5.LastDigitOfLargeNumber
 {
     using System.Numerics;
     public class SolutionClass

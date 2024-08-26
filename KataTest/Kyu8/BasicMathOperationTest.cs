@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.BasicMathOperation;
+    using Kata.Kyu8.BasicMathOperation;
     using NUnit.Framework;
 
     [TestFixture]

@@ -1,4 +1,4 @@
-﻿namespace Kata.Quadrant
+﻿namespace Kata.Kyu8.Quadrant
 {
     public class SolutionClass
     {

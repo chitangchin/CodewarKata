@@ -1,4 +1,4 @@
-﻿namespace Kata.BeginnerReduceButGrow
+﻿namespace Kata.Kyu8.BeginnerReduceButGrow
 {
     using System.Linq;
     public class SolutionClass

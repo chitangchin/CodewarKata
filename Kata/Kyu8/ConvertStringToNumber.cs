@@ -1,4 +1,4 @@
-﻿namespace Kata.ConvertStringToNumber
+﻿namespace Kata.Kyu8.ConvertStringToNumber
 {
     public class SolutionClass
     {

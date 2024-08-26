@@ -1,7 +1,6 @@
-﻿using Kata.SumOfPositive;
-
-namespace KataTests.Kyu8
+﻿namespace KataTests.Kyu8
 {
+    using Kata.Kyu8.SumOfPositive;
     using NUnit.Framework;
 
     [TestFixture]

@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.ConvertStringToNumber;
+    using Kata.Kyu8.ConvertStringToNumber;
     using NUnit.Framework;
 
     [TestFixture]

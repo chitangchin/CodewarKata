@@ -1,4 +1,4 @@
-﻿namespace Kata.SumOfPositive
+﻿namespace Kata.Kyu8.SumOfPositive
 {
     public class SolutionClass
     {

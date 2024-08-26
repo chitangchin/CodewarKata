@@ -1,7 +1,7 @@
-﻿using Kata.EvenOrOdd;
-
+﻿
 namespace KataTests.Kyu8
 {
+    using Kata.Kyu8.EvenOrOdd;
     [TestFixture]
     public class EvenOrOddTests
     {

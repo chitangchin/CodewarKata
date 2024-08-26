@@ -1,7 +1,7 @@
-﻿using Kata.Opposite;
-
+﻿
 namespace KataTests.Kyu8
 {
+    using Kata.Kyu8.Opposite;
     using NUnit.Framework;
 
     [TestFixture]

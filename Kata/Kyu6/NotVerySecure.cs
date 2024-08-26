@@ -12,7 +12,7 @@ No whitespaces / underscore
 
 using System.Text.RegularExpressions;
 
-namespace Kata.Kyu6
+namespace Kata.Kyu6.Alphanumeric
 {
     public class SolutionClass
     {

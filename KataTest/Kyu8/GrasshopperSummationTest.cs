@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.GrasshopperSummation;
+    using Kata.Kyu8.GrasshopperSummation;
     using NUnit.Framework;
 
     [TestFixture]

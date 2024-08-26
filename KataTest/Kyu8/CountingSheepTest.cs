@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.CountingSheep;
+    using Kata.Kyu8.CountingSheep;
     using NUnit.Framework;
 
     [TestFixture]
@@ -12,7 +12,7 @@
         {
             var sheeps = new bool[] { true, false, true };
 
-            Assert.AreEqual(2, SolutionClass.CountSheeps(sheeps));
+            Assert.That(SolutionClass.CountSheeps(sheeps), Is.EqualTo(2));
         }
     }
 }

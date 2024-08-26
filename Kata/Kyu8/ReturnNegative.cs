@@ -1,4 +1,4 @@
-﻿namespace Kata.ReturnNegative
+﻿namespace Kata.Kyu8.ReturnNegative
 {
     public class SolutionClass
     {

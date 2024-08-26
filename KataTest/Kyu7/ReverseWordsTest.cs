@@ -1,8 +1,6 @@
-﻿#pragma warning disable IDE0130 // Namespace does not match folder structure
-namespace KataTests.Kyu7
-#pragma warning restore IDE0130 // Namespace does not match folder structure
+﻿namespace KataTests.Kyu7
 {
-    using Kata.ReverseWords;
+    using Kata.Kyu7.ReverseWords;
     using NUnit.Framework;
 
     [TestFixture]

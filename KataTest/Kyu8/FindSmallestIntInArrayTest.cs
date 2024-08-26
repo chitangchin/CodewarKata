@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.FindSmallestIntInArray;
+    using Kata.Kyu8.FindSmallestIntInArray;
     using NUnit.Framework;
 
     [TestFixture]

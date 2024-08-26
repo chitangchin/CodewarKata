@@ -1,4 +1,4 @@
-﻿namespace Kata.StringRepeat
+﻿namespace Kata.Kyu8.StringRepeat
 {
     public class SolutionClass
     {

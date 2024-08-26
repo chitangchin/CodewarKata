@@ -1,4 +1,4 @@
-﻿namespace Kata.ReverseWords
+﻿namespace Kata.Kyu7.ReverseWords
 {
     public class SolutionClass
     {

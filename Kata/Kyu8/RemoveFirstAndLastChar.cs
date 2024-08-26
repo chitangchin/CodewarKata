@@ -1,4 +1,4 @@
-﻿namespace Kata.RemoveChar
+﻿namespace Kata.Kyu8.RemoveChar
 {
     public class SolutionClass
     {

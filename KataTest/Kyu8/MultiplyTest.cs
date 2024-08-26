@@ -1,6 +1,6 @@
-﻿using Kata.Multiply;
-namespace KataTests.Kyu8
+﻿namespace KataTests.Kyu8
 {
+    using Kata.Kyu8.Multiply;
     [TestFixture]
     public class CustomMathTests
     {

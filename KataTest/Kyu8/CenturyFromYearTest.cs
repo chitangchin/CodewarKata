@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.CenturyFromYear;
+    using Kata.Kyu8.CenturyFromYear;
     using NUnit.Framework;
 
     [TestFixture]

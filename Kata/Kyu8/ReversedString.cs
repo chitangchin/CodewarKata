@@ -1,4 +1,4 @@
-﻿namespace Kata.ReversedString
+﻿namespace Kata.Kyu8.ReversedString
 {
     using System;
     public class SolutionClass

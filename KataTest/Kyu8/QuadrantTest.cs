@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.Quadrant;
+    using Kata.Kyu8.Quadrant;
     using NUnit.Framework;
 
     [TestFixture]

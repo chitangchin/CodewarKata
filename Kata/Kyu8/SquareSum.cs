@@ -1,4 +1,4 @@
-﻿namespace Kata.SquareSum
+﻿namespace Kata.Kyu8.SquareSum
 {
     using System.Linq;
     public class SolutionClass

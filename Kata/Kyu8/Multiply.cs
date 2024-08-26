@@ -1,4 +1,4 @@
-﻿namespace Kata.Multiply
+﻿namespace Kata.Kyu8.Multiply
 {
     public class CustomMath
     {

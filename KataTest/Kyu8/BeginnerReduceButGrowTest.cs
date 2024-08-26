@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.BeginnerReduceButGrow;
+    using Kata.Kyu8.BeginnerReduceButGrow;
     using NUnit.Framework;
 
     [TestFixture]

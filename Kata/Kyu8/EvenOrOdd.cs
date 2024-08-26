@@ -1,4 +1,4 @@
-﻿namespace Kata.EvenOrOdd
+﻿namespace Kata.Kyu8.EvenOrOdd
 {
     public class SolutionClass
     {

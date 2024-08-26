@@ -1,4 +1,4 @@
-﻿namespace Kata.BoolToWord
+﻿namespace Kata.Kyu8.BoolToWord
 {
     public class SolutionClass
     {

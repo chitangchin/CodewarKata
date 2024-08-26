@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.RemoveChar;
+    using Kata.Kyu8.RemoveChar;
     using NUnit.Framework;
 
     [TestFixture]

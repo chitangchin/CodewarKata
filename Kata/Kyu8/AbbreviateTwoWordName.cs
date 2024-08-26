@@ -1,4 +1,4 @@
-﻿namespace Kata.AbbrevName
+﻿namespace Kata.Kyu8.AbbrevName
 {
     public class SolutionClass
     {

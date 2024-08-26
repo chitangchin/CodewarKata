@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.SquareSum;
+    using Kata.Kyu8.SquareSum;
     using NUnit.Framework;
     using System.Collections.Generic;
 

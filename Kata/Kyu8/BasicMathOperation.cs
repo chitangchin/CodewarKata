@@ -1,4 +1,4 @@
-﻿namespace Kata.BasicMathOperation
+﻿namespace Kata.Kyu8.BasicMathOperation
 {
     public class SolutionClass
     {

@@ -1,5 +1,6 @@
 ﻿namespace KataTest.Kyu6Tests
 {
+    using Kata.Kyu6.Alphanumeric;
     using NUnit.Framework;
     using System.Collections.Generic;
 
@@ -17,6 +18,6 @@
             }
         }
 
-        public bool Test(string str) => Kata.Kyu6.SolutionClass.Alphanumeric(str);
+        public bool Test(string str) => SolutionClass.Alphanumeric(str);
     }
 }

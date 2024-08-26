@@ -1,4 +1,4 @@
-﻿namespace Kata.RGBToHexConversion
+﻿namespace Kata.Kyu5.RGBToHexConversion
 {
     public class SolutionClass
     {

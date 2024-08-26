@@ -1,8 +1,6 @@
-﻿using Kata.ReturnNegative;
-
-namespace KataTests.Kyu8
+﻿namespace KataTests.Kyu8
 {
-
+    using Kata.Kyu8.ReturnNegative;
     [TestFixture]
     public class ReturnNegativeTests
     {

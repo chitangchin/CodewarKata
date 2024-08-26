@@ -1,4 +1,4 @@
-﻿namespace Kata.CountingSheep
+﻿namespace Kata.Kyu8.CountingSheep
 {
     public class SolutionClass
     {

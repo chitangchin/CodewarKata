@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.RemoveStringSpace;
+    using Kata.Kyu8.RemoveStringSpace;
     using NUnit.Framework;
 
     [TestFixture]

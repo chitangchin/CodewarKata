@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Kata.Kyu7.CategorizeNewMember
+﻿namespace Kata.Kyu7.CategorizeNewMember
 {
     public class SolutionClass
     {

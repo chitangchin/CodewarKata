@@ -1,4 +1,4 @@
-﻿namespace Kata.FindSmallestIntInArray
+﻿namespace Kata.Kyu8.FindSmallestIntInArray
 {
     public class SolutionClass
     {

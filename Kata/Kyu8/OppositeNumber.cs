@@ -1,4 +1,4 @@
-﻿namespace Kata.Opposite
+﻿namespace Kata.Kyu8.Opposite
 {
     public class SolutionClass
     {

@@ -1,4 +1,4 @@
-﻿namespace Kata.CenturyFromYear
+﻿namespace Kata.Kyu8.CenturyFromYear
 {
     public class SolutionClass
     {

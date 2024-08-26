@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.ReversedString;
+    using Kata.Kyu8.ReversedString;
     using NUnit.Framework;
 
     [TestFixture]

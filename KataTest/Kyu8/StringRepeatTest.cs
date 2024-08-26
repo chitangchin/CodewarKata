@@ -1,6 +1,6 @@
 ﻿namespace KataTests.Kyu8
 {
-    using Kata.StringRepeat;
+    using Kata.Kyu8.StringRepeat;
     using NUnit.Framework;
 
     [TestFixture]

@@ -1,4 +1,4 @@
-﻿namespace Kata.GrasshopperSummation
+﻿namespace Kata.Kyu8.GrasshopperSummation
 {
     public class SolutionClass
     {
