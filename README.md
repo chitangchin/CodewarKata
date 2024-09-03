@@ -10,7 +10,7 @@ Rinse and Repeat the Structure for each Kyu Set (*i.e. Kyu 8*)
 
 **Stage 2:** Complete a Kyu Set in Codewars
 
-**Stage 3:** Revisit and study problems until Complete Kyu Set is Level 1
+**Stage 3:** Revisit and study problems until Complete Kyu Set is Level 1 difficulty
 
 ## How to Get Started
 
